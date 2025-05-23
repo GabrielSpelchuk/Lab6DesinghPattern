@@ -18,7 +18,7 @@ class Program
         Console.WriteLine("Client: I'm not aware of the creator's class, but it still works.\n" + SomeOperation(factoryMethod));
     }
 
-    static void Main(string[] args)
+    static void Main()
     {
         Console.WriteLine("App: Launched with the ConcreteCreator1.");
         ClientCode(CreateProduct1);

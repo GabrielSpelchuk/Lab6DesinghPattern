@@ -1,0 +1,15 @@
+D:\Study\2ndCourse\2ndSemester\DesignPattern\Lab6\Strategy\bin\Debug\net8.0\Strategy.exe
+D:\Study\2ndCourse\2ndSemester\DesignPattern\Lab6\Strategy\bin\Debug\net8.0\Strategy.deps.json
+D:\Study\2ndCourse\2ndSemester\DesignPattern\Lab6\Strategy\bin\Debug\net8.0\Strategy.runtimeconfig.json
+D:\Study\2ndCourse\2ndSemester\DesignPattern\Lab6\Strategy\bin\Debug\net8.0\Strategy.dll
+D:\Study\2ndCourse\2ndSemester\DesignPattern\Lab6\Strategy\bin\Debug\net8.0\Strategy.pdb
+D:\Study\2ndCourse\2ndSemester\DesignPattern\Lab6\Strategy\obj\Debug\net8.0\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\2ndCourse\2ndSemester\DesignPattern\Lab6\Strategy\obj\Debug\net8.0\Strategy.AssemblyInfoInputs.cache
+D:\Study\2ndCourse\2ndSemester\DesignPattern\Lab6\Strategy\obj\Debug\net8.0\Strategy.AssemblyInfo.cs
+D:\Study\2ndCourse\2ndSemester\DesignPattern\Lab6\Strategy\obj\Debug\net8.0\Strategy.csproj.CoreCompileInputs.cache
+D:\Study\2ndCourse\2ndSemester\DesignPattern\Lab6\Strategy\obj\Debug\net8.0\Strategy.sourcelink.json
+D:\Study\2ndCourse\2ndSemester\DesignPattern\Lab6\Strategy\obj\Debug\net8.0\Strategy.dll
+D:\Study\2ndCourse\2ndSemester\DesignPattern\Lab6\Strategy\obj\Debug\net8.0\refint\Strategy.dll
+D:\Study\2ndCourse\2ndSemester\DesignPattern\Lab6\Strategy\obj\Debug\net8.0\Strategy.pdb
+D:\Study\2ndCourse\2ndSemester\DesignPattern\Lab6\Strategy\obj\Debug\net8.0\Strategy.genruntimeconfig.cache
+D:\Study\2ndCourse\2ndSemester\DesignPattern\Lab6\Strategy\obj\Debug\net8.0\ref\Strategy.dll
