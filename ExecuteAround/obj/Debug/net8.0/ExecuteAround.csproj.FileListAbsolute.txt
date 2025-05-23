@@ -1,0 +1,15 @@
+D:\Study\2ndCourse\2ndSemester\DesignPattern\Lab6\ExecuteAround\bin\Debug\net8.0\ExecuteAround.exe
+D:\Study\2ndCourse\2ndSemester\DesignPattern\Lab6\ExecuteAround\bin\Debug\net8.0\ExecuteAround.deps.json
+D:\Study\2ndCourse\2ndSemester\DesignPattern\Lab6\ExecuteAround\bin\Debug\net8.0\ExecuteAround.runtimeconfig.json
+D:\Study\2ndCourse\2ndSemester\DesignPattern\Lab6\ExecuteAround\bin\Debug\net8.0\ExecuteAround.dll
+D:\Study\2ndCourse\2ndSemester\DesignPattern\Lab6\ExecuteAround\bin\Debug\net8.0\ExecuteAround.pdb
+D:\Study\2ndCourse\2ndSemester\DesignPattern\Lab6\ExecuteAround\obj\Debug\net8.0\ExecuteAround.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\2ndCourse\2ndSemester\DesignPattern\Lab6\ExecuteAround\obj\Debug\net8.0\ExecuteAround.AssemblyInfoInputs.cache
+D:\Study\2ndCourse\2ndSemester\DesignPattern\Lab6\ExecuteAround\obj\Debug\net8.0\ExecuteAround.AssemblyInfo.cs
+D:\Study\2ndCourse\2ndSemester\DesignPattern\Lab6\ExecuteAround\obj\Debug\net8.0\ExecuteAround.csproj.CoreCompileInputs.cache
+D:\Study\2ndCourse\2ndSemester\DesignPattern\Lab6\ExecuteAround\obj\Debug\net8.0\ExecuteAround.sourcelink.json
+D:\Study\2ndCourse\2ndSemester\DesignPattern\Lab6\ExecuteAround\obj\Debug\net8.0\ExecuteAround.dll
+D:\Study\2ndCourse\2ndSemester\DesignPattern\Lab6\ExecuteAround\obj\Debug\net8.0\refint\ExecuteAround.dll
+D:\Study\2ndCourse\2ndSemester\DesignPattern\Lab6\ExecuteAround\obj\Debug\net8.0\ExecuteAround.pdb
+D:\Study\2ndCourse\2ndSemester\DesignPattern\Lab6\ExecuteAround\obj\Debug\net8.0\ExecuteAround.genruntimeconfig.cache
+D:\Study\2ndCourse\2ndSemester\DesignPattern\Lab6\ExecuteAround\obj\Debug\net8.0\ref\ExecuteAround.dll

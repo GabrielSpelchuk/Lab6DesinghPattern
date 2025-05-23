@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Study\\2ndCourse\\2ndSemester\\DesignPattern\\Lab6\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E820D09B-127C-4E22-A1BE-F772566A2F8F}|ExecuteAround\\ExecuteAround.csproj|d:\\study\\2ndcourse\\2ndsemester\\designpattern\\lab6\\executearound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E820D09B-127C-4E22-A1BE-F772566A2F8F}|ExecuteAround\\ExecuteAround.csproj|solutionrelative:executearound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BBEC35EE-C1BC-4718-A519-44C15D5F4C2D}|Strategy\\Strategy.csproj|d:\\study\\2ndcourse\\2ndsemester\\designpattern\\lab6\\strategy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BBEC35EE-C1BC-4718-A519-44C15D5F4C2D}|Strategy\\Strategy.csproj|solutionrelative:strategy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -32,18 +36,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\2ndCourse\\2ndSemester\\DesignPattern\\Lab6\\ExecuteAround\\Program.cs",
+              "RelativeDocumentMoniker": "ExecuteAround\\Program.cs",
+              "ToolTip": "D:\\Study\\2ndCourse\\2ndSemester\\DesignPattern\\Lab6\\ExecuteAround\\Program.cs*",
+              "RelativeToolTip": "ExecuteAround\\Program.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:38:50.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\Study\\2ndCourse\\2ndSemester\\DesignPattern\\Lab6\\Strategy\\Program.cs",
               "RelativeDocumentMoniker": "Strategy\\Program.cs",
               "ToolTip": "D:\\Study\\2ndCourse\\2ndSemester\\DesignPattern\\Lab6\\Strategy\\Program.cs",
               "RelativeToolTip": "Strategy\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAYwCUAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-23T14:21:45.921Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Study\\2ndCourse\\2ndSemester\\DesignPattern\\Lab6\\Decorator\\Program.cs",
               "RelativeDocumentMoniker": "Decorator\\Program.cs",
@@ -51,12 +68,11 @@
               "RelativeToolTip": "Decorator\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T13:53:11.55Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T13:53:11.55Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Study\\2ndCourse\\2ndSemester\\DesignPattern\\Lab6\\FacrotyMethod\\Program.cs",
               "RelativeDocumentMoniker": "FacrotyMethod\\Program.cs",
@@ -64,12 +80,11 @@
               "RelativeToolTip": "FacrotyMethod\\Program.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAQwBQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T13:32:25.103Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T13:32:25.103Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Study\\2ndCourse\\2ndSemester\\DesignPattern\\Lab6\\Lab6\\Program.cs",
               "RelativeDocumentMoniker": "Lab6\\Program.cs",
