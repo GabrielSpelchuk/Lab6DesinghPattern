@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Study\\2ndCourse\\2ndSemester\\DesignPattern\\Lab6\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7698BC57-13DF-4F5B-B7D6-FC172E0D2E03}|Decorator\\Decorator.csproj|d:\\study\\2ndcourse\\2ndsemester\\designpattern\\lab6\\decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7698BC57-13DF-4F5B-B7D6-FC172E0D2E03}|Decorator\\Decorator.csproj|solutionrelative:decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B9A0966D-9992-43FF-A7A8-A8B57A96CD49}|FacrotyMethod\\FacrotyMethod.csproj|d:\\study\\2ndcourse\\2ndsemester\\designpattern\\lab6\\facrotymethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9A0966D-9992-43FF-A7A8-A8B57A96CD49}|FacrotyMethod\\FacrotyMethod.csproj|solutionrelative:facrotymethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -24,6 +28,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\2ndCourse\\2ndSemester\\DesignPattern\\Lab6\\Decorator\\Program.cs",
+              "RelativeDocumentMoniker": "Decorator\\Program.cs",
+              "ToolTip": "D:\\Study\\2ndCourse\\2ndSemester\\DesignPattern\\Lab6\\Decorator\\Program.cs",
+              "RelativeToolTip": "Decorator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:53:11.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\Study\\2ndCourse\\2ndSemester\\DesignPattern\\Lab6\\FacrotyMethod\\Program.cs",
               "RelativeDocumentMoniker": "FacrotyMethod\\Program.cs",
               "ToolTip": "D:\\Study\\2ndCourse\\2ndSemester\\DesignPattern\\Lab6\\FacrotyMethod\\Program.cs",
@@ -35,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Study\\2ndCourse\\2ndSemester\\DesignPattern\\Lab6\\Lab6\\Program.cs",
               "RelativeDocumentMoniker": "Lab6\\Program.cs",
@@ -43,8 +60,7 @@
               "RelativeToolTip": "Lab6\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T13:30:31.158Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-23T13:30:31.158Z"
             }
           ]
         }
